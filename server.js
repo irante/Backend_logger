@@ -131,3 +131,7 @@ logger.debug('se ha conectado a la base de datos')
   //console.log(e)
 }
 })()
+
+
+
+console.log("prueba")
